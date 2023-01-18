@@ -1,0 +1,37 @@
+ :root{
+    --blanco: #fffffff;
+    --oscuro: #212121;
+    --primario: #ffcc10;
+    --secundario: #0097A7;
+    --gris: #757575;
+    
+ }
+
+    html{
+        fontsize: ;
+    }
+
+    body {
+        font-size 16 px; 
+    }
+    
+
+
+    #titulo {
+        text-align: center;
+        font-size: 1.8 rem;
+    }
+    
+    .titulospam {
+        
+    }
+
+    h1{color: blue;
+    text-align: center;
+    }
+
+    h2{color: orange;} 
+
+    p{color: rgb(235, 0, 161);}
+
+    
